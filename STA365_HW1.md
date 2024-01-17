@@ -1,1 +1,1 @@
-https://jupyter.utoronto.ca/user/bochong.liu@mail.utoronto.ca/notebooks/Bayes1_Intro2Bayes(1).ipynb
+https://jupyter.utoronto.ca/user/bochong.liu@mail.utoronto.ca/notebooks/Bochong%20Liu_HW1.ipynb
